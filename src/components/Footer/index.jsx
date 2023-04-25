@@ -65,7 +65,14 @@ export function Footer() {
             </div>
              
             <div className="col-12" id="footer-bottom">
-
+              <div className="row justify-content-between">
+                <div className="col-12 col-md-3">
+                  <p className="secondary-color">iMovi &copy; 2023</p>
+                </div>
+                <div className="col-12 col-md-3">
+                  <p className="secondary-color">Realizamos o seu Projeto <i className="bi bi-heart"></i></p>
+                </div>
+              </div>
             </div>
         </div>
       </div>
